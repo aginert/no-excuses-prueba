@@ -1,0 +1,26 @@
+{
+  "name": "no-excuses-prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aginert/no-excuses-prueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aginert/no-excuses-prueba/issues"
+  },
+  "homepage": "https://github.com/aginert/no-excuses-prueba#readme",
+  "dependencies": {
+    "bower": "^1.8.4",
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "node": "^10.10.0"
+  },
+  "devDependencies": {}
+}
