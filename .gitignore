@@ -63,3 +63,7 @@ start/
 .vscode/
 .bower/
 .bowerrc
+
+package-lock.json
+.idea
+bower_components
