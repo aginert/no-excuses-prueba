@@ -13,6 +13,6 @@ Decidí hacer una página web que contenia varías paginas enlazadas entre ellas
 ## Aprendizaje: Duplicar codigo, no tiene ningún sentido y es abrrurrido, debemos buscar una forma más sencilla de trabajar.  
 No es una buena práctica. 
 
-Inline-style: 
+## Aquí puedes ver mis primeros pasos!
 ![alt text](https://github.com/aginert/no-excuses-prueba/blob/master/Fotos/carpeta%20sin%20t%C3%ADtulo/aplicacion.gif "firstWebPage")
 
