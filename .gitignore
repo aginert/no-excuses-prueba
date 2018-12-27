@@ -67,3 +67,4 @@ start/
 package-lock.json
 .idea
 bower_components
+start
